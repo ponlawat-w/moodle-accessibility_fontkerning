@@ -17,7 +17,7 @@
 /**
  * Language strings
  *
- * @package     accessibility_imagevisibility
+ * @package     accessibility_fontkerning
  * @copyright   2024 Ponlawat Weerapanpisit <ponlawat_w@outlook.co.th>
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
